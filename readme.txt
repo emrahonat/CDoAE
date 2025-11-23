@@ -19,4 +19,4 @@ Code : https://github.com/nurbasekin
 
 Cite : 
 
-Nurbaş, E., Onat, E., & Tuncer, T. E. (2022). Collaborative Direction of Arrival estimation by using Alternating Direction Method of Multipliers in distributed sensor array networks employing Sparse Bayesian Learning framework. Digital Signal Processing, 130, 103739.
+Nurbaş, E., Onat, E., & Tuncer, T. E. (2022). Collaborative Direction of Arrival estimation by using Alternating Direction Method of Multipliers in distributed sensor array networks employing Sparse Bayesian Learning framework. Digital Signal Processing, 130, 103739. https://doi.org/10.1016/j.dsp.2022.10373
